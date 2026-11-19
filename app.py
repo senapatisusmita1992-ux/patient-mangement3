@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 # FastAPI backend URL
-BASE_URL = "http://onrender.com"
+BASE_URL = "https://patient-management-api-1-zwnr.onrender.com"
 
 st.set_page_config(
     page_title="Patient Management System",
